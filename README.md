@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R0STUS
-- 👀 I’m interested in C++, Java and Scratch coding
+- 👀 I’m interested in C++, Java and Lua coding
 
 <!---
 R0STUS/R0STUS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

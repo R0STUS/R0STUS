@@ -12,5 +12,6 @@
 <div align="center">
 	<a href="https://en.cppreference.com/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" /></a>
 	<a href="https://archlinux.org/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Linux" /></a>
+	<a href="https://nixos.org/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="Linux" /></a>
 	<a href="https://git-scm.com/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /></a>
 </div>

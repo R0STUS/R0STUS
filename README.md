@@ -12,6 +12,8 @@
 <div align="center">
 	<a href="https://en.cppreference.com/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" /></a>
 	<a href="https://c-faq.com/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" /></a>
+	<a href="https://www.lua.org/" target="_blank"><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" /></a>
+	<a href="https://www.nasm.us/" target="_blank"><img width="30" height="30" src="https://images.seeklogo.com/logo-png/44/1/netwide-assembler-nasm-logo-png_seeklogo-444841.png" alt="Lua" /></a>
 	<a href="https://store.steampowered.com/steamos" target="_blank"><img width="30" height="30" src="https://static.wikia.nocookie.net/logopedia/images/6/65/SteamOS_%28Icon%29.png/revision/latest?cb=20230304222827" alt="SteamOS" /></a>
 	<a href="https://lakka.tv/" target="_blank"><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Lakka.png" alt="Lakka OS (Linux)" /></a>
 	<a href="https://nixos.org/" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="NixOS (Linux)" /></a>
